@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation (RAG) is a technique that improves LLM responses by retrieving relevant context
+from a knowledge base (e.g., documents) and injecting it into the model prompt at inference time.
+This helps reduce hallucinations and increases factual grounding.

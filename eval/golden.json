@@ -1,0 +1,10 @@
+[
+  {
+    "query": "What is Retrieval-Augmented Generation (RAG)?",
+    "must_include_any": ["retriev", "context", "documents", "ground"]
+  },
+  {
+    "query": "Why does RAG reduce hallucinations?",
+    "must_include_any": ["ground", "context", "retrieve", "factual"]
+  }
+]

@@ -1,0 +1,5 @@
+[project]
+name = "llm-rag-reference-architecture"
+version = "0.1.0"
+description = "Production-lean RAG reference implementation with caching, retries, and tracing."
+requires-python = ">=3.10"
